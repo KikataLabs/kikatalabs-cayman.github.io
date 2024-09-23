@@ -1,7 +1,7 @@
 ---
 layout: default
 title: kikata
-description: Simple Connected Securely Protected
+description: Simply Connected Securely Protected
 layout: main
 ---
 # kikata stuff
